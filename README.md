@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jam3553
-- 👀 I’m interested in Vancouver urbanism
+- 👀 I’m interested in urbanism
 - 🌱 I’m currently learning Python data science
 
 
